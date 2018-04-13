@@ -1,4 +1,7 @@
-﻿# Modern AI
+# Ccылка на репозитарий с Ботами работающими на основе Нейросети
+https://github.com/gridgentoo/BotModernAI
+
+# Modern AI
 ### Искусственный интеллект в облаке
 
 ## Материалы для [Cloud Day 2.0](https://github.com/evangelism/ModernAI/tree/v1.0.cloudday), Cognitive School and ModernAI Course
