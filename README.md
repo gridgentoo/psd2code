@@ -1,6 +1,9 @@
 # Ccылка на репозитарий с Ботами работающими на основе Нейросети
 https://github.com/gridgentoo/BotModernAI
 
+# Нейросеть-верстальщик. Жесть! Что будет с профессией верстальщик?!
+https://www.youtube.com/watch?v=c-2mbuPBtvc
+
 # Modern AI
 ### Искусственный интеллект в облаке
 
@@ -79,6 +82,8 @@ https://github.com/gridgentoo/BotModernAI
 
 * [Глубокие нейросети для анализа Биржевой информации (Часть 6). Ансамбль нейросетевых классификаторов: bagging.](https://www.mql5.com/ru/articles/4227)
 
+# Нейросеть-верстальщик. Жесть! Что будет с профессией верстальщик?!
+https://www.youtube.com/watch?v=c-2mbuPBtvc
 
 # pix2code
 *Generating Code from a Graphical User Interface Screenshot*
